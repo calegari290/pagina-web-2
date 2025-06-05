@@ -1,7 +1,7 @@
 criaCartao(
     'Matemática',
     'Qual o valor de 7x8?,
-    'igual a 56'
+    'Igual a 56'
 )
 
 criaCartao(
